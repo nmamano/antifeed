@@ -1,0 +1,5 @@
+node_modules/
+archive/
+# App data (the event log, the decision log, the blobs) when ISOMUX_APP_DATA_DIR points inside the tree
+/data/
+/live/
